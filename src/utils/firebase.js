@@ -7,14 +7,16 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+//colocar su propia configuracion de firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyD12JVsdmR1IMXdbtW3EXtWxYzgAsD07MI",
-  authDomain: "teseo-app-81d77.firebaseapp.com",
-  projectId: "teseo-app-81d77",
-  storageBucket: "teseo-app-81d77.appspot.com",
+  apiKey: "AIzaSy1123125dsfsdgdfa23124123MI",
+  authDomain: "teseo-app-232.firebaseapp.com",
+  projectId: "teseo-app-23",
+  storageBucket: "teseo-app-23.appspot.com",
   messagingSenderId: "794583488224",
-  appId: "1:794583488224:web:f3a6076c904aa1c6352285",
-  measurementId: "G-M2CMHVRCN9",
+  appId: "1:7945123124:web:f3a6076c904aa1c635232145",
+  measurementId: "G-NASDF1",
 };
 
 // Initialize Firebase
